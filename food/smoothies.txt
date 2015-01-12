@@ -1,2 +1,4 @@
 Mango
 Strawberry
+Frog
+Lizard
